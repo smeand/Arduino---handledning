@@ -1,6 +1,6 @@
 Arduino---handledning
 =====================
-Här hittar du handledningskort för grundskolan och ett Styr- och reglerteknikprojekt för årskurs 9. De är till för att gå vidare med https://codebender.cc och Arduino på egen hand.
+Här hittar du handledningskort för grundskolan och ett Styr- och reglerteknikprojekt för årskurs 9. De är till för att gå vidare med https://codebender.cc och http://arduino.cc på egen hand.
 
 These Arduino-tutorialcards for secondary school are, by the moment, only in swedish.
 
